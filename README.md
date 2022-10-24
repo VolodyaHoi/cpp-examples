@@ -12,3 +12,4 @@ C++ examples [for beginners]
 8. function.cpp - работа с созданием и запуском функций [NOT LOADED]
 9. massive - работа с массивами [NOT LOADED]
 #10. class_ex.cpp - работа с классами
+#11. my_programm.cpp - применение всех полученных знаний
